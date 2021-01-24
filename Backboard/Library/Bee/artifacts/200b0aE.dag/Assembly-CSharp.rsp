@@ -314,6 +314,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Imported Assets/LoadImage.cs"
+"Assets/LoadMaterialFromLink.cs"
 "Assets/OBJImport/CharWordReader.cs"
 "Assets/OBJImport/MTLLoader.cs"
 "Assets/OBJImport/OBJLoader.cs"
