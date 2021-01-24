@@ -557,4 +557,4 @@ ScriptsOnlyBuild:
   platform: 2
   scenePathNames:
   - Assets/Scenes/Scene 1.unity
-  playerPath: /Applications/Backboard.app
+  playerPath: /Users/rickydaricky/Desktop/Backboard.app
